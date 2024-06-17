@@ -1,0 +1,2 @@
+Big data, small sequence
+Generated MIDI file saved to ./generated_music_17_06_15_37.mid

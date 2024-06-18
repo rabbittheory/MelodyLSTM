@@ -1,2 +1,18 @@
-Big data, small sequence
+Partial data
+Small sequence
 Generated MIDI file saved to ./generated_music_17_06_15_37.mid
+
+Partial data
+sequence_length = 64
+8 batch
+hidden_size = 512
+num_layers = 2
+model_17_06_18_21.pth
+
+Full data
+hidden_size = 64
+num_layers = 2
+sequence_length = 16
+32 batch
+2 epoch
+model_17_06_19_12

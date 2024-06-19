@@ -16,3 +16,10 @@ sequence_length = 16
 32 batch
 2 epoch
 model_17_06_19_12
+
+
+New model, keep
+model_19_06_16_19
+
+1000 seq, sliding window 4
+model_19_06_16_34
